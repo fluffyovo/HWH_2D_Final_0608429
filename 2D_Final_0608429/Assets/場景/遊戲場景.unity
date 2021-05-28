@@ -308,7 +308,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -4209,12 +4209,12 @@ PrefabInstance:
     - target: {fileID: 8369150351121788075, guid: 42c578a07fed4fb48aae9039fcafec4e,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 100.04
+      value: 110
       objectReference: {fileID: 0}
     - target: {fileID: 8369150351121788075, guid: 42c578a07fed4fb48aae9039fcafec4e,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 58.5
+      value: 78
       objectReference: {fileID: 0}
     - target: {fileID: 8369150351121788075, guid: 42c578a07fed4fb48aae9039fcafec4e,
         type: 3}
@@ -4259,17 +4259,17 @@ PrefabInstance:
     - target: {fileID: 8369150351121788075, guid: 42c578a07fed4fb48aae9039fcafec4e,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.7
+      value: 0.8
       objectReference: {fileID: 0}
     - target: {fileID: 8369150351121788075, guid: 42c578a07fed4fb48aae9039fcafec4e,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.7
+      value: 0.8
       objectReference: {fileID: 0}
     - target: {fileID: 8369150351121788075, guid: 42c578a07fed4fb48aae9039fcafec4e,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.7
+      value: 0.8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42c578a07fed4fb48aae9039fcafec4e, type: 3}
@@ -4308,8 +4308,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 203, y: -106.5}
-  m_SizeDelta: {x: 122.148544, y: 70.23541}
+  m_AnchoredPosition: {x: 292.9, y: -143.6}
+  m_SizeDelta: {x: 134.37834, y: 77.26755}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1438366030
 MonoBehaviour:
